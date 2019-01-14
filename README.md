@@ -1,13 +1,7 @@
 # My first Website
 
-Welcome!
+Welcome to my first website and read me page. On this page you will be able to 
+see my progress on becoming a web developer. 
 
-## This is a h2
-
-### This is a h3 
-
-#### h4
-
-##### h5 
-
-###### h6
+This link will forward you to my website!
+https://elg1e.github.io/my-first-website/
